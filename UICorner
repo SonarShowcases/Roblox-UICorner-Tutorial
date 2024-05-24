@@ -1,0 +1,5 @@
+--Replace "Hey" with any Instances (only GUI)
+
+local Corner = Instance.new("UICorner")
+Corner.Parent = Hey
+Corner.CornerRadius = UDim.new(0, 4) --Adjust if you want
